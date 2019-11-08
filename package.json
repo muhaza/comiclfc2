@@ -1,0 +1,15 @@
+{
+  "name": "comiclfc",
+  "version": "1.0.0",
+  "description": "muhaza create lfc app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "comic",
+    "lfc"
+  ],
+  "author": "Muhaza",
+  "license": "ISC"
+}
